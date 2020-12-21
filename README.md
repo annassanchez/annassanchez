@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 📍 madrid
+- 📍 based in madrid
 - 📚 architect looking for a change
-- 🔭 i’m currently working on stepping up my data analysis-game.
-- 🌱 also learning front-end development (cause we're all full of contradictions).
+- 🔭 i’m currently working on stepping up my data analysis-game
+- 💻 also learning front-end development (cause we're all full of contradictions)
+- 🌱 i'm keen on plants, podcasting, reading classic novels and listening to music
