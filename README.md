@@ -10,3 +10,5 @@ Here are some ideas to get you started:-->
 - 🗺️ currently a data and gis analyst
 - 🔭 i’m currently working on stepping up my data analysis/viz-game
 - 🌱 i'm keen on plants, podcasting, reading classic novels and listening to music
+
+![anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annassanchez&theme=dark&show_icons=true)
