@@ -7,5 +7,5 @@ Here are some ideas to get you started:-->
 
 - 📍 based in madrid
 - 📚 architect 
-- 🗺️ gis & data analyst, focusing on viz
+- 🗺️ gis analyst, focusing on viz
 - 🌱 i'm keen on plants, knitting & crocheting and listening to podcast and music
